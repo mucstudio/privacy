@@ -1,18 +1,5 @@
-# Privacy
-
-![GitHub last commit](https://img.shields.io/github/last-commit/kallydev/privacy?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kallydev/privacy?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/kallydev/privacy?style=flat-square)
-
-个人数据泄漏检测网站，适用于近期流传的 40GB+ 数据。
-
-> 所有数据均来源于互联网，仅用于查询个人信息泄露情况，请勿用于非法目的。
 
 ## 示例截图
-
-![screenshot](screenshot/screenshot.png)
-
-可以前往预览 [示例网站](https://privacy.kallydev.com/)（暂未部署最新版本）。
 
 ## 使用方法
 
